@@ -1,0 +1,12 @@
+body{
+    background-color: brown;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+}
+img{
+    margin: 10px;
+    display:inline-block;
+    width:25%;
+}
